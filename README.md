@@ -1,5 +1,7 @@
 # APItest
 
+### The application generates various quotes using the api.
+
 ![image](https://github.com/SebastianK2000/APItest/assets/127401994/bd794368-2ae5-432a-ad13-b5ffd95c8dbe)
 
 
